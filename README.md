@@ -17,6 +17,15 @@
 | `practice/` | блокноты практических занятий |
 | `tasks/` | домашние задания |
 
+## Занятие 8. Интерпретируемость и публикация модели
+
+- [Лекция 8](lectures/lecture08.pptx) — способы публикации, SHAP с кодом и запуск формы Gradio.
+- [Открыть практику 8 в Google Colab](https://colab.research.google.com/github/rustam-azimov/ml-course-hse/blob/main/practice/practice08_publish_model.ipynb) · [блокнот в репозитории](practice/practice08_publish_model.ipynb).
+- [Инструкция студентам со скриншотами](practice/practice08_publishing_guide.md).
+- [Инструкция в HTML](practice/practice08_publishing_guide.html) — скачайте файл и откройте в браузере; все изображения встроены.
+
+Работаем в своей копии Colab, GPU и платная подписка не нужны. Ссылка Gradio временная: модель работает, пока запущены сервер и среда Colab.
+
 ## Правила курса
 
 Домашние задания и пороги оценивания считаются **отдельно для каждой из двух
