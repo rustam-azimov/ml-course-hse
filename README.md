@@ -26,9 +26,12 @@
 
 Работаем в своей копии Colab, GPU и платная подписка не нужны. Ссылка Gradio временная: модель работает, пока запущены сервер и среда Colab.
 
-## Лекция 9. От линейной модели к нейросети
+## Занятие 9. От линейной модели к нейросети
 
 - [Лекция 9 в PPTX](lectures/lecture09.pptx) — перцептрон, устройство сети, обучение и PyTorch. 54 слайда с примерами и иллюстрациями.
+- [Открыть практику 9 в Google Colab](https://colab.research.google.com/github/rustam-azimov/ml-course-hse/blob/main/practice/practice09_pytorch.ipynb) · [блокнот в репозитории](practice/practice09_pytorch.ipynb).
+
+Практика 9: тензоры, autograd, MLP вручную и через `nn.Module`, цикл обучения и сравнение с линейной моделью на FashionMNIST. Шесть заданий с самопроверками на 90 минут; CPU в бесплатном Colab достаточно.
 
 ## Правила курса
 
